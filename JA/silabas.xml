@@ -1,0 +1,26 @@
+<?xml version='1.0' ?> 
+<strings>
+	<string id='silaba1'>BA</string>
+	<string id='silaba2'>BE</string>
+	<string id='silaba3'>BI</string>
+	<string id='silaba4'>BO</string>
+	<string id='silaba5'>BU</string>
+
+	<string id='silaba6'>CA</string>
+	<string id='silaba7'>CE</string>
+	<string id='silaba8'>CI</string>
+	<string id='silaba9'>CO</string>
+	<string id='silaba10'>CU</string>
+
+	<string id='silaba11'>DA</string>
+	<string id='silaba12'>DE</string>
+	<string id='silaba13'>DI</string>
+	<string id='silaba14'>DO</string>
+	<string id='silaba15'>DU</string>
+
+	<string id='silaba16'>FA</string>
+	<string id='silaba17'>FE</string>
+	<string id='silaba18'>FI</string>
+	<string id='silaba19'>FO</string>
+	<string id='silaba20'>FU</string>
+</strings>
