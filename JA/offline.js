@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1546790957,
+	"version": 1546973694,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,12 +11,20 @@
 		"images/latadelixo-sheet0.png",
 		"images/lixo-sheet0.png",
 		"images/fundo-sheet0.png",
+		"images/voltarm-sheet0.png",
+		"images/tiledbackground.png",
+		"images/fonte1.png",
+		"images/correto.png",
+		"images/fullscreen-sheet0.png",
+		"images/fullscreen-sheet1.png",
+		"images/s_fase-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"silabas.xml"
+		"silabas.xml",
+		"alfabeto.xml"
 	]
 }
