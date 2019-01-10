@@ -1,0 +1,19 @@
+<?xml version='1.0' ?> 
+<strings>
+	<string id='P1S1'>Car</string>
+	<string id='P1S2'>ro</string>
+	<string id='P1S3'>sel</string>
+	
+	<string id='P2S1'>Brin</string>
+	<string id='P2S2'>que</string>
+	<string id='P2S3'>do</string>
+
+	<string id='P3S1'>O</string>
+	<string id='P3S2'>ni</string>
+	<string id='P3S3'>bus</string>
+
+	<string id='P4S1'>Pro</string>
+	<string id='P4S2'>fes</string>
+	<string id='P4S3'>sor</string>
+	
+</strings>

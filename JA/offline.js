@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1547040372,
+	"version": 1547148952,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -8,8 +8,8 @@
 		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/b_fase-sheet0.png",
-		"images/latadelixo-sheet0.png",
-		"images/lixo-sheet0.png",
+		"images/playercontroller-sheet0.png",
+		"images/coletar-sheet0.png",
 		"images/fundo-sheet0.png",
 		"images/voltarm-sheet0.png",
 		"images/tiledbackground.png",
@@ -25,6 +25,7 @@
 		"icon-256.png",
 		"loading-logo.png",
 		"silabas.xml",
-		"alfabeto.xml"
+		"alfabeto.xml",
+		"palavras.xml"
 	]
 }
