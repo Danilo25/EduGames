@@ -23771,8 +23771,8 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Function,
 	cr.plugins_.Particles,
 	cr.plugins_.Sprite,
-	cr.plugins_.Touch,
 	cr.plugins_.Text,
+	cr.plugins_.Touch,
 	cr.behaviors.Pin,
 	cr.system_object.prototype.cnds.IsGroupActive,
 	cr.system_object.prototype.cnds.EveryTick,
@@ -23850,8 +23850,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.cnds.CompareOpacity,
 	cr.plugins_.Sprite.prototype.acts.SetOpacity,
 	cr.plugins_.Sprite.prototype.exps.Opacity,
-	cr.plugins_.Audio.prototype.cnds.PreloadsComplete,
-	cr.plugins_.Touch.prototype.cnds.OnTapGesture,
-	cr.plugins_.Audio.prototype.acts.Preload
+	cr.plugins_.Touch.prototype.cnds.OnTapGesture
 ];};
 
