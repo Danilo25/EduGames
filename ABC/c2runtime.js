@@ -23850,7 +23850,6 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.EveryTick,
 	cr.plugins_.Sprite.prototype.cnds.CompareOpacity,
 	cr.plugins_.Sprite.prototype.acts.SetOpacity,
-	cr.plugins_.Sprite.prototype.exps.Opacity,
-	cr.plugins_.Audio.prototype.cnds.PreloadsComplete
+	cr.plugins_.Sprite.prototype.exps.Opacity
 ];};
 
