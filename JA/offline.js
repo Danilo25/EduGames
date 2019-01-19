@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1547641873,
+	"version": 1547922581,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,7 @@
 		"images/fullscreen-sheet0.png",
 		"images/fullscreen-sheet1.png",
 		"images/s_fase-sheet0.png",
+		"images/s_fase-sheet1.png",
 		"images/vida-sheet0.png",
 		"media/bgmusicja.ogg",
 		"icon-16.png",
