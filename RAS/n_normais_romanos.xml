@@ -1,0 +1,45 @@
+<?xml version='1.0' ?> 
+<strings>
+	<string id='Normais1'>1</string>
+	<string id='Normais2'>2</string>
+	<string id='Normais3'>3</string>
+	<string id='Normais4'>4</string>
+	<string id='Normais5'>5</string>
+	<string id='Normais6'>6</string>
+	<string id='Normais7'>7</string>
+	<string id='Normais8'>8</string>
+	<string id='Normais9'>9</string>
+	<string id='Normais10'>10</string>
+	<string id='Normais11'>11</string>
+	<string id='Normais12'>12</string>
+	<string id='Normais13'>13</string>
+	<string id='Normais14'>14</string>
+	<string id='Normais15'>15</string>
+	<string id='Normais16'>16</string>
+	<string id='Normais17'>17</string>
+	<string id='Normais18'>18</string>
+	<string id='Normais19'>19</string>
+	<string id='Normais20'>20</string>
+
+	<string id='Romanos1'>I</string>
+	<string id='Romanos2'>II</string>
+	<string id='Romanos3'>III</string>
+	<string id='Romanos4'>IV</string>
+	<string id='Romanos5'>V</string>
+	<string id='Romanos6'>VI</string>
+	<string id='Romanos7'>VII</string>
+	<string id='Romanos8'>VIII</string>
+	<string id='Romanos9'>IX</string>
+	<string id='Romanos10'>X</string>
+	<string id='Romanos11'>XI</string>
+	<string id='Romanos12'>XII</string>
+	<string id='Romanos13'>XIII</string>
+	<string id='Romanos14'>XIV</string>
+	<string id='Romanos15'>XV</string>
+	<string id='Romanos16'>XVI</string>
+	<string id='Romanos17'>XVII</string>
+	<string id='Romanos18'>XVIII</string>
+	<string id='Romanos19'>XIX</string>
+	<string id='Romanos20'>XX</string>
+	
+</strings>

@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1547643354,
+	"version": 1548073682,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -9,17 +9,22 @@
 		"images/pesonagem-sheet0.png",
 		"images/botao-sheet0.png",
 		"images/botao-sheet1.png",
-		"images/valores-sheet0.png",
-		"images/valores-sheet1.png",
-		"images/valores-sheet2.png",
 		"images/fullscreen-sheet0.png",
 		"images/fullscreen-sheet1.png",
 		"images/safezone-sheet0.png",
+		"images/valoressf.png",
+		"images/fundo-sheet0.png",
+		"images/logo1-sheet0.png",
+		"images/logo2-sheet0.png",
+		"media/bg.ogg",
+		"media/bgmusicras8.ogg",
+		"media/bgmusicras1.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"n_normais_romanos.xml"
 	]
 }
