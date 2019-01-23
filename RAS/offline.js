@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1548074116,
+	"version": 1548246367,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,6 +16,8 @@
 		"images/fundo-sheet0.png",
 		"images/logo1-sheet0.png",
 		"images/logo2-sheet0.png",
+		"images/bg-sheet0.png",
+		"images/pergunta.png",
 		"media/bg.ogg",
 		"media/bgmusicras8.ogg",
 		"media/bgmusicras1.ogg",

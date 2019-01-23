@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1548074721,
+	"version": 1548245992,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -450,12 +450,13 @@
 		"media/e2.ogg",
 		"media/e3.m4a",
 		"media/e3.ogg",
-		"media/p2.m4a",
-		"media/p2.ogg",
 		"media/p1.m4a",
 		"media/p1.ogg",
 		"media/intro.m4a",
 		"media/intro.ogg",
+		"media/p2.m4a",
+		"media/p2.ogg",
+		"media/a5.ogg",
 		"media/1_bgm.m4a",
 		"media/1_bgm.ogg",
 		"icon-16.png",

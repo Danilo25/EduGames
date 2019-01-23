@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1548074116
+#1548246367
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -15,6 +15,8 @@ images/valoressf.png
 images/fundo-sheet0.png
 images/logo1-sheet0.png
 images/logo2-sheet0.png
+images/bg-sheet0.png
+images/pergunta.png
 media/bg.ogg
 media/bgmusicras8.ogg
 media/bgmusicras1.ogg

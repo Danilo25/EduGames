@@ -23765,14 +23765,14 @@ cr.behaviors.Pin = function(runtime)
 	behaviorProto.exps = new Exps();
 }());
 cr.getObjectRefTable = function () { return [
+	cr.plugins_.Arr,
+	cr.plugins_.Audio,
 	cr.plugins_.Browser,
 	cr.plugins_.Function,
 	cr.plugins_.Particles,
-	cr.plugins_.Touch,
-	cr.plugins_.Text,
 	cr.plugins_.Sprite,
-	cr.plugins_.Arr,
-	cr.plugins_.Audio,
+	cr.plugins_.Text,
+	cr.plugins_.Touch,
 	cr.behaviors.Pin,
 	cr.system_object.prototype.cnds.IsGroupActive,
 	cr.system_object.prototype.cnds.OnLayoutStart,
