@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1548699660
+#1548700729
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -81,13 +81,6 @@ media/y.m4a
 media/y.ogg
 media/z.m4a
 media/z.ogg
-media/abajur.m4a
-media/abajur.ogg
-media/abelha.m4a
-media/abelha.ogg
-media/azul.m4a
-media/azul.ogg
-media/bala.m4a
 media/bala.ogg
 media/balde.m4a
 media/balde.ogg
@@ -323,14 +316,6 @@ media/Óculos.m4a
 media/Óculos.ogg
 media/hidrante.m4a
 media/hidrante.ogg
-media/alemanha.m4a
-media/alemanha.ogg
-media/argentina.m4a
-media/argentina.ogg
-media/armário.m4a
-media/armário.ogg
-media/bailarina.m4a
-media/bailarina.ogg
 media/banco.m4a
 media/banco.ogg
 media/bolsa.m4a
@@ -435,6 +420,21 @@ media/ying%20yang.m4a
 media/ying%20yang.ogg
 media/Óleo.m4a
 media/Óleo.ogg
+media/bala.m4a
+media/bailarina.ogg
+media/bailarina.m4a
+media/azul.ogg
+media/azul.m4a
+media/armário.ogg
+media/armário.m4a
+media/argentina.ogg
+media/argentina.m4a
+media/alemanha.ogg
+media/alemanha.m4a
+media/abelha.ogg
+media/abelha.m4a
+media/abajur.ogg
+media/abajur.m4a
 media/a1.m4a
 media/a1.ogg
 media/a2.m4a
