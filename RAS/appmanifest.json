@@ -1,6 +1,6 @@
 ﻿{
-	"name": "New project",
-	"short_name": "New project",
+	"name": "RAS",
+	"short_name": "RAS",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
