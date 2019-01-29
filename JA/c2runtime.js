@@ -24683,15 +24683,15 @@ cr.behaviors.bound = function(runtime)
 	};
 }());
 cr.getObjectRefTable = function () { return [
+	cr.plugins_.TiledBg,
+	cr.plugins_.Sprite,
+	cr.plugins_.SpriteFontPlus,
+	cr.plugins_.XML,
+	cr.plugins_.Touch,
 	cr.plugins_.AJAX,
 	cr.plugins_.Arr,
 	cr.plugins_.Audio,
 	cr.plugins_.Browser,
-	cr.plugins_.SpriteFontPlus,
-	cr.plugins_.XML,
-	cr.plugins_.TiledBg,
-	cr.plugins_.Sprite,
-	cr.plugins_.Touch,
 	cr.behaviors.DragnDrop,
 	cr.behaviors.bound,
 	cr.behaviors.Flash,
