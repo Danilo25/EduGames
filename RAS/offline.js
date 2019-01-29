@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1548781167,
+	"version": 1548788362,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,7 @@
 		"images/pergunta.png",
 		"images/palhaço-sheet0.png",
 		"media/bgmusic.ogg",
+		"media/vamos jogar ras.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
