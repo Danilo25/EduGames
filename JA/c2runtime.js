@@ -15139,25 +15139,6 @@ cr.system_object.prototype.loadFromJSON = function (o)
 	};
 })();
 cr.shaders = {};
-cr.shaders["blacknwhite"] = {src: ["varying mediump vec2 vTex;",
-"uniform lowp sampler2D samplerFront;",
-"uniform lowp float threshold;",
-"void main(void)",
-"{",
-"lowp vec4 front = texture2D(samplerFront, vTex);",
-"lowp float gray = front.r * 0.299 + front.g * 0.587 + front.b * 0.114;",
-"if (gray < threshold)",
-"gl_FragColor = vec4(0.0, 0.0, 0.0, front.a);",
-"else",
-"gl_FragColor = vec4(front.a, front.a, front.a, front.a);",
-"}"
-].join("\n"),
-	extendBoxHorizontal: 0,
-	extendBoxVertical: 0,
-	crossSampling: false,
-	preservesOpaqueness: true,
-	animated: false,
-	parameters: [["threshold", 0, 1]] }
 ;
 ;
 cr.plugins_.AJAX = function(runtime)
@@ -24687,11 +24668,11 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Arr,
 	cr.plugins_.Audio,
 	cr.plugins_.Browser,
-	cr.plugins_.Touch,
-	cr.plugins_.TiledBg,
 	cr.plugins_.XML,
-	cr.plugins_.Sprite,
 	cr.plugins_.SpriteFontPlus,
+	cr.plugins_.TiledBg,
+	cr.plugins_.Touch,
+	cr.plugins_.Sprite,
 	cr.behaviors.DragnDrop,
 	cr.behaviors.bound,
 	cr.behaviors.Flash,
@@ -24758,7 +24739,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.SpriteFontPlus.prototype.acts.Destroy,
 	cr.plugins_.Sprite.prototype.cnds.CompareY,
 	cr.plugins_.Sprite.prototype.acts.SetY,
-	cr.plugins_.Sprite.prototype.acts.SetEffectEnabled,
 	cr.plugins_.AJAX.prototype.acts.RequestFile,
 	cr.plugins_.AJAX.prototype.cnds.OnComplete,
 	cr.plugins_.XML.prototype.acts.Load,

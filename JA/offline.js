@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1548934930,
+	"version": 1549361123,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,6 +10,7 @@
 		"images/b_fase-sheet0.png",
 		"images/playercontroller-sheet0.png",
 		"images/coletar-sheet0.png",
+		"images/coletar-sheet1.png",
 		"images/fundo-sheet0.png",
 		"images/voltarm-sheet0.png",
 		"images/tiledbackground.png",
